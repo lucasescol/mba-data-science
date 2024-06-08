@@ -1,0 +1,5 @@
+# Ignora a pasta myenv (ambiente virtual)
+myenv/
+
+# Ignora a pasta .ipynb_checkpoints
+.ipynb_checkpoints/
